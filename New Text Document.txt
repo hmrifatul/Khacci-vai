@@ -1,0 +1,21 @@
+ <div class="cont">
+          <h1 class="p2"> <u > Contact </u></h1>
+          <p  > ➡️আমরা আছি মিরপুর ১০, মিরপুর ১,
+             <br> মোহাম্মদপুর, উত্তরা, গুলশান, <br>
+              বেইলিরোড, ধানমন্ডি, বসুন্ধরা গেট, <br>
+        শনিরআখড়া এবং নারায়ণগঞ্জে। চলে আসুন স্বপরিবারে। ❤️</p>
+        <p class="tt2" >➡️ Kacchi Bhai Official Group <br>
+            কাচ্চি ভাই অফিসিয়াল গ্রূপে জয়েন করে <br>
+             জিতে নিতে পারেন "ফ্রি কাচ্চি" তাই দেরি <br>
+              না করে এখনই জয়েন করুন!</p>
+              <div class="ji">
+                <p>➡️ www.facebook.com/groups/kacchibhai <br>
+                  https://www.facebook.
+                  com/kacchivhai/?ref=page_internal
+                
+                
+                </p>
+              </div>
+
+              
+        </div>

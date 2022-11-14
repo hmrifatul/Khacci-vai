@@ -1,0 +1,341 @@
+*{
+  margin: auto;
+  padding: auto;
+}
+.bgimg{
+  background-image:url(img/kassibaner.jpg);
+  background-repeat: no-repeat;
+  height: 200px;
+  background-size: 100%;
+}
+.nvlogo{
+  height: 175px;
+  width: 187px;
+  margin-top: -10px;
+  float: left;
+}
+ul{
+  list-style: none;
+}
+ul li{
+  background-color: aqua;
+  color: rgba(224, 23, 174, 0.849);
+  
+  
+}
+ul li a{
+  float:left;
+  padding:5px;
+  margin-left:20px;
+  margin-top: 205px;
+  text-decoration: none
+
+}
+
+.cont{
+
+width: 100%;
+
+
+}
+li{
+  font-size: 10px;
+  font-weight: bold;
+  color: black;
+}
+ul li a:hover{
+  background-color: aqua;
+  color: black;
+  border-radius:15px;
+
+}
+a{
+  color: rgb(247, 251, 252);
+  font-size: 30px;
+  background-color: brown;
+
+}
+.on{
+  background-color: aqua;
+  color: black;
+
+}
+.img1{
+  height: 440px;
+    width: 478px;
+  background-color: aqua;
+  margin-right: 100px;
+  float: right;
+  
+}
+.img:hover{
+   background-color: aqua;
+   color: black;
+   border-radius: 5px;
+}
+h1{
+  text-align: center;
+  font-size: 20px;
+  margin-top: 136px;
+}
+.img2{
+  margin-top:211px;
+  margin-left: 80px;
+  float: left;
+}
+h2{
+  margin-top:422px;
+  text-align: center;
+}
+.img3{
+  margin-top:211px;
+  margin-right: 100px;
+  float:right;
+}
+h3{
+  margin-top:422px;
+  text-align: center;
+
+}
+.img4{
+  margin-top:211px;
+  margin-left: 100px;
+  float:left;
+}
+h4{
+  margin-top:422px;
+  text-align: center;
+  font-size: 20px;
+}
+.menubar{
+  height:500px;
+  width: 860px;
+  background-color: rgb(246, 248, 248);
+  margin-top: 130px;
+}
+.menubar img{
+  margin-left: 302px;
+}
+.list{
+  height:308px;
+  width:842px;
+  background-color: rgb(122, 122, 106);
+  
+}
+li{
+  font-size: 25px;
+}
+
+
+table{
+  margin-top:2px;
+}
+.manu2{
+  margin-left: 20px;
+  float: left;
+}
+.manu3{
+     margin-left: 10px;
+}
+.cont{
+  height: 250px;
+  width: 100%;
+  background-color: rgb(75, 63, 63);
+}
+.p2{
+  font-size: 50px;
+}
+p{
+  font-size: 20px;
+  color: aliceblue;
+  margin-left: 15px;
+  float: left;
+}
+.tt2{
+  text-align: center;
+  font-size: 20px;
+  color: aliceblue;
+
+}
+.ji{
+  margin-top: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (600px) {
+  *{
+    margin: auto;
+    padding: auto;
+  }
+  .bgimg{
+    background-image:url(img/kassibaner.jpg);
+    background-repeat: no-repeat;
+    height: 200px;
+    background-size: 100%;
+  }
+  .nvlogo{
+    height: 175px;
+    width: 187px;
+    margin-top: -10px;
+    float: left;
+  }
+  ul{
+    list-style: none;
+  }
+  ul li{
+    background-color: aqua;
+    color: rgba(224, 23, 174, 0.849);
+    
+    
+  }
+  ul li a{
+    float:left;
+    padding:5px;
+    margin-left:20px;
+    margin-top: 205px;
+    text-decoration: none
+  
+  }
+  
+  .cont{
+  
+  width: 100%;
+  
+  
+  }
+  li{
+    font-size: 10px;
+    font-weight: bold;
+    color: black;
+  }
+  ul li a:hover{
+    background-color: aqua;
+    color: black;
+    border-radius:15px;
+  
+  }
+  a{
+    color: rgb(247, 251, 252);
+    font-size: 30px;
+    background-color: brown;
+  
+  }
+  .on{
+    background-color: aqua;
+    color: black;
+  
+  }
+  .img1{
+    height: 440px;
+      width: 478px;
+    background-color: aqua;
+    margin-right: 100px;
+    float: right;
+    
+  }
+  .img:hover{
+     background-color: aqua;
+     color: black;
+     border-radius: 5px;
+  }
+  h1{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 136px;
+  }
+  .img2{
+    margin-top:211px;
+    margin-left: 80px;
+    float: left;
+  }
+  h2{
+    margin-top:422px;
+    text-align: center;
+  }
+  .img3{
+    margin-top:211px;
+    margin-right: 100px;
+    float:right;
+  }
+  h3{
+    margin-top:422px;
+    text-align: center;
+  
+  }
+  .img4{
+    margin-top:211px;
+    margin-left: 100px;
+    float:left;
+  }
+  h4{
+    margin-top:422px;
+    text-align: center;
+    font-size: 20px;
+  }
+  .menubar{
+    height:500px;
+    width: 860px;
+    background-color: rgb(246, 248, 248);
+    margin-top: 130px;
+  }
+  .menubar img{
+    margin-left: 302px;
+  }
+  .list{
+    height:308px;
+    width:842px;
+    background-color: rgb(122, 122, 106);
+    
+  }
+  li{
+    font-size: 25px;
+  }
+  
+  
+  table{
+    margin-top:2px;
+  }
+  .manu2{
+    margin-left: 20px;
+    float: left;
+  }
+  .manu3{
+       margin-left: 10px;
+  }
+  .cont{
+    height: 250px;
+    width: 100%;
+    background-color: rgb(75, 63, 63);
+  }
+  .p2{
+    font-size: 50px;
+  }
+  p{
+    font-size: 20px;
+    color: aliceblue;
+    margin-left: 15px;
+    float: left;
+  }
+  .tt2{
+    text-align: center;
+    font-size: 20px;
+    color: aliceblue;
+  
+  }
+  .ji{
+    margin-top: 100px;
+  }
+}
